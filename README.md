@@ -46,26 +46,30 @@ This project strengthened my understanding of:
 
 > Place your screenshots inside a folder named **/screenshots** in the project
 
+## 📸 Screenshots
+
 ### 🔐 Register Page  
-`/screenshots/register.png`
+![Register Page](screenshots/registr.png)
 
 ### 🔑 Login Page  
-`/screenshots/login.png`
+![Login Page](screenshots/login.png)
 
 ### 🏠 Home Page  
-`/screenshots/home.png`
+![Home Page](screenshots/hom1.png)
+![Home Page](screenshots/hom2.png)
 
 ### 🍕 Menu Page  
-`/screenshots/menu.png`
+![Menu Page](screenshots/menu.png)
 
 ### 🛒 Cart Page  
-`/screenshots/cart.png`
+![Cart Page](screenshots/cart.png)
 
 ### 💳 Proceed to Checkout  
-`/screenshots/checkout.png`
+![Checkout Page](screenshots/checkout.png)
 
 ### 🙏 Thank You Page  
-`/screenshots/thankyou.png`
+![Thank You Page](screenshots/thanks.png)
+
 
 ---
 
